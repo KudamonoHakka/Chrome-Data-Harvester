@@ -1,0 +1,1 @@
+gcc main.c -o main.exe -lshell32 -D_WIN32_IE=0x0500
